@@ -1,7 +1,5 @@
 # Guia de Estudo: AWS Certified Developer - Associate (DVA-C02)
 
-# Guia de Estudo: AWS Certified Developer - Associate (DVA-C02)
-
 Este guia foi estruturado para auxiliar no aprendizado ativo e na preparação técnica para a certificação **AWS Certified Developer Associate**, focando nos conceitos fundamentais, serviços essenciais e práticas de exame.
 
 ---
